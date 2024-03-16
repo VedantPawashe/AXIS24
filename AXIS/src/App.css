@@ -1,0 +1,19 @@
+:root {
+  --lightgray: #d9d9d9;
+  --gray: #9c9c9c;
+  --orange: #f48915;
+  --darkgray: #464d53;
+  --plancard: linear-gradient(210deg, #fa5042 1.14%, #ffa739 100.75%);
+  --appcolor: #3c3f45;
+}
+
+.App {
+  font-family: sent-serif;
+  background: #02050e;
+}
+
+.stroke-text {
+  color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
